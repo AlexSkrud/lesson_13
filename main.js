@@ -1,5 +1,5 @@
 var myNum = 10;
-var myStr = 'строка';
+var myStr = "строка";
 var myBool = true;
 var myArr = [1, 2, 3, 4, 5];
 var myObj = {
@@ -67,7 +67,6 @@ strReplace = strReplace.replace("рама", "Рама");
 strReplace = strReplace.replace("мыла", "держит");
 console.log(strReplace);
 
-var myStr =
-  "Преобразуйте любую строку в верхний, затем в нижний регистры, результат отобразите в консоли.";
+var myStr = "строка";
 console.log(myStr.toUpperCase());
 console.log(myStr.toLowerCase());
